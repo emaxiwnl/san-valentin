@@ -8,7 +8,7 @@ document.getElementById("boton-inicio").addEventListener("click", function() {
         crearPetalo();
     }
 
-    // Seguir generando pétalos cada 0.5 segundos
+    // Seguir generando pétalos cada 0.6 segundos
     setInterval(crearPetalo, 500);
 });
 
